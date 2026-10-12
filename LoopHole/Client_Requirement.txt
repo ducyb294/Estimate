@@ -1,0 +1,61 @@
+Level Designs
+We would like to create playable versions of the level designs and flows used in the following creatives:
+
+Video-1
+Video-2
+For this case, our priority is Video-1. We would like to receive the P1 playable by the requested due date, while Video-2 can be delivered afterwards.
+All of our standard/default playable features should also be included.
+Background & Color Change
+We would like to be able to customize the colors and materials of the environment elements.
+For the overall background, we would also like to be able to use:
+
+Background Image
+Solid Color
+Gradient Color
+Camera Settings
+We would like to have full control over the camera settings, including:
+
+XYZ Position
+XYZ Rotation
+Perspective / Orthographic camera option
+Zoom controls
+Tutorial
+We would like to add an optional tutorial system that can be enabled or disabled.
+SFX & Music
+We would like to be able to:
+
+Change the background music
+Add or replace gameplay SFX when needed
+Entrance Video & GIF
+The playable should support both Entrance Video and GIF options.
+For GIFs, we would like to be able to:
+
+Resize them freely
+Adjust their position
+Use different dimensions when needed
+General Text Parameters
+We would like the text elements in the playable to be customizable through parameters.
+We should be able to adjust:
+
+Text content
+Font
+Font size
+Text position
+Top Banner
+For the Top Banner:
+
+We should be able to edit the text.
+We should be able to upload and use custom fonts.
+Gameplay Parameters
+We would like the main gameplay-related values to be adjustable through parameters wherever possible, so that we can easily create different gameplay variations.
+Grayscale
+We would like to have a Grayscale parameter that can be enabled or disabled when needed.
+Store Redirect
+We would like to have an option to redirect the player directly to the store without showing the End Card stage.
+Due Date
+We would like to receive Video-1 by October 16, 2026.
+Video-2 can be delivered afterwards.
+The due date is important for us, so if there is any reason this timeline needs to change, please let us know as early as possible.
+
+Assets & JSON
+The JSON files will be shared once they are available.

@@ -1,0 +1,28 @@
+Start
+- màn hình loading có logo game + thanh progression	
+
+Tutorial
+
+- ngón tay kéo 1 mảnh card vào 1 tranh hoàn chỉnh
+
+Gameplay - UI/UX
+- Chia thành 3 phần:
+• Top: nhiều chồng card úp
+• Middle: card lật ngửa, mỗi card là 1 mảnh của bức tranh lớn (4 card tạo thành 1 tranh)
+• Bottom: Logo game
+- Design 6 column như PA ref
+
+Gameplay - Game rule
+- Kéo để thay đổi vị trí các card
+- 4 card tạo thành 1 tranh hoàn chỉnh
+- Khi hoàn thành 1 tranh thì card từ bên trên rơi xuống
+
+End Card
+- hiện logo + button Play	
+
+Game Params
+- Background: đổi hình & đổi màu
+- Card Design (đổi màu card design)
+- Image Collection (add nhiều ảnh mới vào để thay thế)
+- Số lượng ảnh match thành công
+- Số lượng cột của card

@@ -1,0 +1,3 @@
+designer|modules-20261009-073324|none|base,level,puzzle
+cocos|modules-20261012-074440|none|base,playable,blind-edit
+art|modules-20261012-071330|none|base,cocos,audio,finish2d,finish3d,store,video
